@@ -1,5 +1,5 @@
 {
-  "name": "cc-history",
+  "name": "@spyder1211/cc-history",
   "version": "1.0.0",
   "description": "Claude Code usage history viewer",
   "main": "dist/index.js",
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/spyder1211/cc-history.git"
+    "url": "git+https://github.com/spyder1211/cc-history.git"
   },
   "bugs": {
     "url": "https://github.com/spyder1211/cc-history/issues"

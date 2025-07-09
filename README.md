@@ -14,7 +14,7 @@ An interactive CLI tool to view and analyze your Claude Code usage history with 
 ## Installation
 
 ```bash
-npm install -g cc-history
+npm install -g @spyder1211/cc-history
 ```
 
 ## Usage
