@@ -11,6 +11,11 @@ An interactive CLI tool to view and analyze your Claude Code usage history with 
 - 💰 Estimated pricing calculations
 - 🌐 International support (English interface)
 
+## screen shot
+<img width="878" alt="image" src="https://github.com/user-attachments/assets/83d2a1a8-6caa-4f9b-81b2-2016cd2f12b7" />
+
+<img width="766" alt="image" src="https://github.com/user-attachments/assets/a43fddf4-e359-4cfb-be7c-7b906ad64e61" />
+
 ## Installation
 
 ```bash
